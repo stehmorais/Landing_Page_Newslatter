@@ -1,7 +1,6 @@
 @media screen and (max-width:760px){
     .cabecalho{
         flex-direction: column;
-
     }
 
     .conteudo{
